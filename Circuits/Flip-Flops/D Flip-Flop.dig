@@ -22,8 +22,12 @@
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
+          <string>Description</string>
+          <string>data</string>
+        </entry>
+        <entry>
           <string>Label</string>
-          <string>Data</string>
+          <string>D</string>
         </entry>
       </elementAttributes>
       <pos x="-60" y="220"/>
@@ -37,8 +41,12 @@
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
+          <string>Description</string>
+          <string>clock</string>
+        </entry>
+        <entry>
           <string>Label</string>
-          <string>Clock</string>
+          <string>Clk</string>
         </entry>
       </elementAttributes>
       <pos x="-60" y="260"/>

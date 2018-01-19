@@ -17,6 +17,10 @@
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
+          <string>Description</string>
+          <string>reset Q to zero</string>
+        </entry>
+        <entry>
           <string>Label</string>
           <string>R</string>
         </entry>
@@ -26,6 +30,10 @@
     <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>set Q to 1</string>
+        </entry>
         <entry>
           <string>Label</string>
           <string>S</string>
