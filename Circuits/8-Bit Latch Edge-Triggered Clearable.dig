@@ -4,46 +4,6 @@
   <attributes/>
   <visualElements>
     <visualElement>
-      <elementName>D Flip-Flop with Clear.dig</elementName>
-      <elementAttributes/>
-      <pos x="360" y="-160"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D Flip-Flop with Clear.dig</elementName>
-      <elementAttributes/>
-      <pos x="360" y="-60"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D Flip-Flop with Clear.dig</elementName>
-      <elementAttributes/>
-      <pos x="360" y="40"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D Flip-Flop with Clear.dig</elementName>
-      <elementAttributes/>
-      <pos x="360" y="140"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D Flip-Flop with Clear.dig</elementName>
-      <elementAttributes/>
-      <pos x="360" y="240"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D Flip-Flop with Clear.dig</elementName>
-      <elementAttributes/>
-      <pos x="360" y="340"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D Flip-Flop with Clear.dig</elementName>
-      <elementAttributes/>
-      <pos x="360" y="440"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D Flip-Flop with Clear.dig</elementName>
-      <elementAttributes/>
-      <pos x="360" y="540"/>
-    </visualElement>
-    <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
@@ -113,15 +73,55 @@
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
-          <string>Label</string>
-          <string>Clr</string>
-        </entry>
-        <entry>
           <string>Description</string>
           <string>clear</string>
         </entry>
+        <entry>
+          <string>Label</string>
+          <string>Clr</string>
+        </entry>
       </elementAttributes>
       <pos x="260" y="660"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D Flip-Flop Edge-Triggered Clearable.dig</elementName>
+      <elementAttributes/>
+      <pos x="360" y="540"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D Flip-Flop Edge-Triggered Clearable.dig</elementName>
+      <elementAttributes/>
+      <pos x="360" y="440"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D Flip-Flop Edge-Triggered Clearable.dig</elementName>
+      <elementAttributes/>
+      <pos x="360" y="340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D Flip-Flop Edge-Triggered Clearable.dig</elementName>
+      <elementAttributes/>
+      <pos x="360" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D Flip-Flop Edge-Triggered Clearable.dig</elementName>
+      <elementAttributes/>
+      <pos x="360" y="140"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D Flip-Flop Edge-Triggered Clearable.dig</elementName>
+      <elementAttributes/>
+      <pos x="360" y="40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D Flip-Flop Edge-Triggered Clearable.dig</elementName>
+      <elementAttributes/>
+      <pos x="360" y="-60"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D Flip-Flop Edge-Triggered Clearable.dig</elementName>
+      <elementAttributes/>
+      <pos x="360" y="-160"/>
     </visualElement>
   </visualElements>
   <wires>

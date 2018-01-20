@@ -25,55 +25,15 @@
           <string>D</string>
         </entry>
         <entry>
-          <string>intFormat</string>
-          <intFormat>bin</intFormat>
-        </entry>
-        <entry>
           <string>Bits</string>
           <int>8</int>
         </entry>
+        <entry>
+          <string>intFormat</string>
+          <intFormat>bin</intFormat>
+        </entry>
       </elementAttributes>
       <pos x="180" y="240"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D Flip-Flop.dig</elementName>
-      <elementAttributes/>
-      <pos x="460" y="240"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D Flip-Flop.dig</elementName>
-      <elementAttributes/>
-      <pos x="460" y="300"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D Flip-Flop.dig</elementName>
-      <elementAttributes/>
-      <pos x="460" y="360"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D Flip-Flop.dig</elementName>
-      <elementAttributes/>
-      <pos x="460" y="420"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D Flip-Flop.dig</elementName>
-      <elementAttributes/>
-      <pos x="460" y="480"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D Flip-Flop.dig</elementName>
-      <elementAttributes/>
-      <pos x="460" y="540"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D Flip-Flop.dig</elementName>
-      <elementAttributes/>
-      <pos x="460" y="600"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D Flip-Flop.dig</elementName>
-      <elementAttributes/>
-      <pos x="460" y="660"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -93,12 +53,12 @@
           <string>Q</string>
         </entry>
         <entry>
-          <string>intFormat</string>
-          <intFormat>bin</intFormat>
-        </entry>
-        <entry>
           <string>Bits</string>
           <int>8</int>
+        </entry>
+        <entry>
+          <string>intFormat</string>
+          <intFormat>bin</intFormat>
         </entry>
       </elementAttributes>
       <pos x="800" y="240"/>
@@ -112,6 +72,46 @@
         </entry>
       </elementAttributes>
       <pos x="700" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D Flip-Flop Level-Triggered.dig</elementName>
+      <elementAttributes/>
+      <pos x="460" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D Flip-Flop Level-Triggered.dig</elementName>
+      <elementAttributes/>
+      <pos x="460" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D Flip-Flop Level-Triggered.dig</elementName>
+      <elementAttributes/>
+      <pos x="460" y="360"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D Flip-Flop Level-Triggered.dig</elementName>
+      <elementAttributes/>
+      <pos x="460" y="420"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D Flip-Flop Level-Triggered.dig</elementName>
+      <elementAttributes/>
+      <pos x="460" y="480"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D Flip-Flop Level-Triggered.dig</elementName>
+      <elementAttributes/>
+      <pos x="460" y="540"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D Flip-Flop Level-Triggered.dig</elementName>
+      <elementAttributes/>
+      <pos x="460" y="600"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D Flip-Flop Level-Triggered.dig</elementName>
+      <elementAttributes/>
+      <pos x="460" y="660"/>
     </visualElement>
   </visualElements>
   <wires>
