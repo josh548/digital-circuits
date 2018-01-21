@@ -13,7 +13,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>A</string>
+          <string>N</string>
         </entry>
         <entry>
           <string>Bits</string>
@@ -26,16 +26,6 @@
       <elementName>Ground</elementName>
       <elementAttributes/>
       <pos x="360" y="160"/>
-    </visualElement>
-    <visualElement>
-      <elementName>In</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>Clr</string>
-        </entry>
-      </elementAttributes>
-      <pos x="280" y="380"/>
     </visualElement>
     <visualElement>
       <elementName>Button</elementName>
@@ -65,6 +55,16 @@
         </entry>
       </elementAttributes>
       <pos x="640" y="340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Button</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Clr</string>
+        </entry>
+      </elementAttributes>
+      <pos x="280" y="380"/>
     </visualElement>
   </visualElements>
   <wires>
